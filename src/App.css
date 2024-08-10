@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('/public/pexels.png'); /* Add your background image here */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white; /* White text color to contrast with the background image */
+}
+
+nav {
+  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent dark background for navigation */
+  padding: 1rem;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0px;
+}
+
+nav li {
+  display: inline;
+  margin: 0 1rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+p {
+  text-align: center;
+  color: black;
+  font-style: italic;
+  font-size: large;
+}
+
+.home-content {
+  margin-top: 4rem; /* Adjust this value to move the content lower */
+}
+
+.home {
+  margin-top: 10rem; /* Adjust this value to move the content lower */
+}
+
