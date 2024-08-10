@@ -106,11 +106,16 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 Output Screenshot:
-![image](https://github.com/user-attachments/assets/f659d5b3-e774-4164-bc53-faa6dbd21d3d)
-![image](https://github.com/user-attachments/assets/decf6b4d-f85b-470f-ade2-09b4c5f3c26a)
-![image](https://github.com/user-attachments/assets/25e684ad-7c91-430a-b09c-9fe72c79cb44)
-![image](https://github.com/user-attachments/assets/3c74c41d-4811-40f4-a611-66063534ff8b)
-![image](https://github.com/user-attachments/assets/1684d65e-d990-4795-a6c1-7279135a2f89)
+![image](https://github.com/user-attachments/assets/947c78a8-0c68-422e-b3b6-1a56c685390c)
+![image](https://github.com/user-attachments/assets/067eb02a-3e39-449f-851c-69e989d41da1)
+![image](https://github.com/user-attachments/assets/880e5a34-466a-4ee8-9ec6-ab5ba3563d17)
+![image](https://github.com/user-attachments/assets/809e574c-2a93-4453-8d72-d1a5987ca3d8)
+![image](https://github.com/user-attachments/assets/7b39a6ab-5477-44c9-b248-6ea1ecbd2d99)
+
+
+
+
+
 
 
 
