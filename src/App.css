@@ -1,11 +1,9 @@
 body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background-image: url('/public/pexels.png'); /* Add your background image here */
+  
+  background-image: url('/public/pexels.png'); 
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
-  color: white; /* White text color to contrast with the background image */
+  color: white;
 }
 
 nav {
@@ -13,6 +11,8 @@ nav {
   padding: 1rem;
   text-align: center;
 }
+
+
 
 nav ul {
   list-style: none;
@@ -43,10 +43,10 @@ p {
 }
 
 .home-content {
-  margin-top: 4rem; /* Adjust this value to move the content lower */
+  margin-top: 4rem; 
 }
 
 .home {
-  margin-top: 10rem; /* Adjust this value to move the content lower */
+  margin-top: 10rem; 
 }
 

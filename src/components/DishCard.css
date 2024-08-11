@@ -1,24 +1,18 @@
 .dish-card {
-    border: 1px solid #dee2e6;
-    border-radius: 5px;
-    background-color: #fff;
-    margin: 10px;
-    padding: 15px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s;
-  }
-  
-  .dish-card:hover {
-    transform: translateY(-5px);
+    border: 3px solid #dee2e6;
+    border-radius: 25px;
+    background-color: #9e2e2e;
+    margin: 25px;
+    padding: 20px;
   }
   
   .dish-card h3 {
-    color: #495057;
+    color: #e3e6e9;
     margin-bottom: 10px;
   }
   
   .dish-card p {
-    color: #6c757d;
+    color: #eaefeb;
     margin-bottom: 10px;
   }
   
@@ -29,7 +23,7 @@
   }
   
   .dish-card a:hover {
-    color: #0056b3;
+    color: #00b38f;
   }
 
   
