@@ -27,6 +27,7 @@ export const recipes = [
     instructions: "'Prepare the Pizza Dough' Activate the Yeast: In a small bowl, mix the warm water with sugar and yeast. Let it sit for about 5-10 minutes until it becomes frothy.Mix the Dough: In a large mixing bowl, combine the flour and salt. Make a well in the center, add the yeast mixture and olive oil. Mix until a dough forms.Knead the Dough: Transfer the dough to a lightly floured surface and knead for about 5-7 minutes until the dough is smooth and elastic.Let it Rise: Place the dough in a lightly oiled bowl, cover it with a damp cloth, and let it rise in a warm place for about 1 hour, or until it has doubled in size.'Assemble the Pizza' Preheat the Oven: Preheat your oven to 475°F (245°C).Prepare the Dough: Once the dough has risen, punch it down and roll it out on a floured surface to your desired thickness. Transfer the rolled dough to a greased baking sheet or pizza stone.Add the Sauce: Spread the pizza sauce evenly over the dough.4. Add the Cheese: Sprinkle a layer of shredded mozzarella cheese over the sauce.Add the Vegetables: Arrange the bell pepper, onion, mushrooms, tomato, and olives on top of the cheese.Season: Sprinkle dried oregano, dried basil, and red chili flakes (if using) over the vegetables.'Bake the Pizza'Bake: Place the pizza in the preheated oven and bake for 12-15 minutes, or until the crust is golden and the cheese is bubbly and slightly browned.Serve: Remove the pizza from the oven, let it cool slightly, slice, and serve hot.Enjoy your homemade vegetable pizza!",
     image: "img/vegpizza.png"
   },
+
   {
     id: 2,
     name: "Chicken Curry",
@@ -51,7 +52,7 @@ export const recipes = [
     instructions: "Heat the Oil:In a large pan, heat the vegetable oil over medium heat.Saute Onions:Add the chopped onions to the pan and saute until they are golden brown.Add Garlic and Ginger:Stir in the minced garlic and grated ginger,cooking for another minute until fragrant.Spice it Up:Add the curry powder, turmeric, cumin, coriander, and chili powder to the pan.Stir the spices into the onion mixture and cook for 1-2 minutes.Add Tomatoes:Toss in the chopped tomatoes and cook until they soften and blend with the spices, about 5 minutes.Cook the Chicken: Add the chicken pieces to the pan,stirring to coat them well with the spice mixture.Cook for 5-7 minutes until the chicken is browned.Simmer the Curry:Pour in the coconut milk or yogurt, stirring to combine.Reduce the heat to low and let the curry simmer for 20-25 minutes,or until the chicken is fully cooked and tender.Season and Serve:Add salt to taste and stir.Garnish with fresh cilantro leaves.Serve: Serve the chicken curry hot with rice or naan.Enjoy your homemade chicken curry!",
     image: "img/chickengravy.png"
   },
-  // Additional Vegetarian Recipes
+  
   {
     id: 3,
     name: "Vegetable Stir-Fry",
@@ -76,7 +77,7 @@ export const recipes = [
     image: "img/chicken-stir-fry.png"
   },
   
-  // Additional Non-Vegetarian Recipe
+  
   {
     id: 4,
     name: "Beef Stroganoff",
@@ -100,5 +101,4 @@ export const recipes = [
     instructions: "Cook Beef:In a large skillet, melt the butter over medium-high heat.Add the sliced beef and cook until browned on all sides. Remove beef and set aside.Add Onions and Garlic:In the same skillet, add the chopped onion and cook until softened. Stir in the minced garlic and cook for another minute.Add Mushrooms: Add the mushrooms and cook until they release their moisture and become golden brown.Add Flour: Sprinkle the flour over the mushrooms and cook for 1-2 minutes.Add Broth and Cream:Gradually stir in the beef broth and bring to a simmer. Stir in the sour cream, Dijon mustard, and Worcestershire sauce. Cook until the sauce is thickened and smooth.Add Beef:Return the beef to the skillet and simmer until heated through. Season with salt and pepper to taste.Serve: Serve the beef stroganoff over cooked egg noodles and garnish with chopped parsley.Enjoy your creamy beef stroganoff!",
     image: "img/beefstroganoff.png"
   }
-
 ]

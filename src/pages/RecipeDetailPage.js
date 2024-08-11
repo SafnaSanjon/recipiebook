@@ -1,7 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import { recipes } from '../components/recipes'; // Import recipes data
-import '../pages/RecipeDetailPage.css'; // Import the CSS file
+import { recipes } from '../components/recipes';
+import '../pages/RecipeDetailPage.css';
 
 const RecipeDetailPage = () => {
   const { id } = useParams();
