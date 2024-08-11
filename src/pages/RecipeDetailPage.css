@@ -1,11 +1,10 @@
 /* RecipeDetailPage.css */
 .recipe-detail-page {
-  background-color: #fff; /* White background color for recipe details */
-  color: #333; /* Dark text color */
+  background-color: #ddece9; /* White background color for recipe details */
+  color: #0e0d0d; /* Dark text color */
   padding: 2rem;
-  margin: 0 auto;
   max-width: 800px; /* Maximum width of the page */
-  height: 100%; /* Full height of the viewport */
+  height: 95%; /* Full height of the viewport */
   overflow-y: auto; /* Enable vertical scrolling */
   text-align: center;
   box-sizing: border-box; /* Ensure padding doesn't affect width calculation */
@@ -23,14 +22,9 @@ h1 {
 }
 
 h2 {
-  color: #555; /* Slightly lighter grey text color for subheadings */
+  color: #2d2a2a; /* Slightly lighter grey text color for subheadings */
+  font-style:italic;
 }
 
-ul {
-  list-style: none;
-  padding: 0;
-}
 
-li {
-  padding: 0.5rem 0;
-}
+

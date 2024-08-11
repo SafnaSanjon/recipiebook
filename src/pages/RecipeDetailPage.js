@@ -17,11 +17,11 @@ const RecipeDetailPage = () => {
       <img src={process.env.PUBLIC_URL + '/' + recipe.image} alt={recipe.name} className="recipe-image" />
       <p>{recipe.description}</p>
       <h2>Ingredients</h2>
-      <ul>
+      <div>
         {recipe.ingredients.map((ingredient, index) => (
-          <li key={index}>{ingredient}</li>
+          <div key={index}>{ingredient}</div>
         ))}
-      </ul>
+      </div>
       <h2>Instructions</h2>
       <p>{recipe.instructions}</p>
     </div>

@@ -1,8 +1,6 @@
 .page-container {
     max-width: 800px;
-    margin: 0 auto;
-    padding: 0;
-    height: 80vh; /* Adjust height as needed, e.g., 80% of the viewport height */
+    height: 80vh; /* Adjust height as needed, the viewport height */
     overflow-y: auto; /* Enable vertical scrolling */
     box-sizing: border-box; /* Ensure padding and border are included in width */
   }
@@ -11,25 +9,17 @@
     display: none; /* Hide scrollbar for webkit browsers */
   }
   
-  /* Optional: Hide scrollbar for the content inside .page-container */
-  .page-container {
-    -ms-overflow-style: none; /* IE and Edge */
-    scrollbar-width: none; /* Firefox */
-  }
-  
   .header-box {
     padding: 20px;
     margin-top: 0;
     margin-bottom: 10px;
     border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     text-align: center;
     box-sizing: border-box; /* Ensure padding and border are included in width */
   }
   
   .veg-header {
-    background-color: #f38f47; /* Light blue for vegetarian header */
-    color: #fff;
+    background-color: #f38f47; /* color for vegetarian header */
     padding: 10px; /* Padding inside the header box */
     max-width: 300px; /* Adjust width */
     margin: 0 auto 20px; /* Center the box and margin below */
@@ -37,7 +27,7 @@
   }
   
   .non-veg-header {
-    background-color: #f38f47; /* Light pink for non-vegetarian header */
+    background-color: #f38f47; /* color for non-vegetarian header */
     color: #fff;
     padding: 10px; /* Padding inside the header box */
     max-width: 400px; /* Adjust width */
@@ -49,9 +39,5 @@
     display: flex;
     flex-direction: column;
     gap: 15px;
-  }
-  .instructions {
-    text-align: justify; /* Justify text alignment for instructions */
-    margin-bottom: 1.5rem; /* Add some space after instructions */
   }
   
