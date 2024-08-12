@@ -1,5 +1,5 @@
 .page-container {
-    max-width: 800px;
+    max-width: 800px;/* Sets the maximum width of the page container */
     height: 80vh; /* Adjust height as needed, the viewport height */
     overflow-y: auto; /* Enable vertical scrolling */
     box-sizing: border-box; /* Ensure padding and border are included in width */
@@ -10,25 +10,25 @@
   }
   
   .header-box {
-    padding: 20px;
-    margin-top: 0;
-    margin-bottom: 10px;
-    border-radius: 5px;
-    text-align: center;
+    padding: 20px;/* Adds 20px padding inside the header box */
+    margin-top: 0;/* No margin at the top */
+    margin-bottom: 10px;/* Adds 10px margin at the bottom */
+    border-radius: 5px;/* Rounds the corners of the header box with a 5px radius */
+    text-align: center;/* Centers text inside the header box */
     box-sizing: border-box; /* Ensure padding and border are included in width */
   }
   
   .veg-header {
     background-color: #f38f47; /* color for vegetarian header */
-    padding: 10px; /* Padding inside the header box */
-    max-width: 300px; /* Adjust width */
-    margin: 0 auto 20px; /* Center the box and margin below */
+    padding: 10px; /* Adds 10px padding inside the vegetarian header */
+    max-width: 300px; /* Sets the maximum width of the vegetarian header */
+    margin: 0 auto 20px; /* Centers the vegetarian header and adds 20px margin at the bottom */
     box-sizing: border-box; /* Ensure padding and border are included in width */
   }
   
   .non-veg-header {
     background-color: #f38f47; /* color for non-vegetarian header */
-    color: #fff;
+    color: #fff;/* Adds 10px padding inside the vegetarian header */
     padding: 10px; /* Padding inside the header box */
     max-width: 400px; /* Adjust width */
     margin: 0 auto 20px; /* Center the box and margin below */
@@ -36,8 +36,6 @@
   }
   
   .dishes-container {
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
+    flex-direction: column; /* Arranges children elements in a column */
   }
   

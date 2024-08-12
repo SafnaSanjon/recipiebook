@@ -1,6 +1,6 @@
-export const recipes = [
+export const recipes = [ // Exports an array of recipe objects
   {
-    id: 1,
+    id: 1, // Unique identifier for the recipe
     name: "Vegetarian Pizza",
     type: "veg",
     description: "A delicious vegetarian pizza with fresh ingredients.",

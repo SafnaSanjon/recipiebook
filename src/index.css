@@ -1,11 +1,11 @@
 body {
-  margin: 0;
-  background-color: #9f2f4d; /* background color */
+  margin: 0; /* Removes default margin around the body */
+  background-color: #9f2f4d; /* Sets the background color for the body */
 }
 
 #root {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh; /* Full viewport height */
+  display: flex; /* Uses flexbox layout */
+  justify-content: center; /* Centers content horizontally */
+  align-items: center; /* Centers content vertically */
+  height: 100vh; /* Sets height to 100% of the viewport height */
 }

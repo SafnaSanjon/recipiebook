@@ -1,29 +1,30 @@
 .dish-card {
-    border: 3px solid #dee2e6;
-    border-radius: 25px;
-    background-color: #9e2e2e;
-    margin: 25px;
-    padding: 20px;
+    border: 3px solid #dee2e6; /* Adds a light gray border with a thickness of 3px */
+    border-radius: 25px; /* Rounds the corners of the card with a radius of 25px */
+    background-color: #9e2e2e; /* Sets the background color to a dark red */
+    margin: 25px; /* Adds a 25px margin around the card */
+    padding: 20px; /* Adds 20px padding inside the card */
+
   }
   
   .dish-card h3 {
-    color: #e3e6e9;
-    margin-bottom: 10px;
+    color: #e3e6e9; /* Sets the text color of the h3 element to a light gray */
+    margin-bottom: 10px; /* Adds a 10px margin below the h3 element */
   }
   
   .dish-card p {
-    color: #eaefeb;
-    margin-bottom: 10px;
+    color: #eaefeb;/* Sets the text color of the paragraph to a slightly greenish light gray */
+    margin-bottom: 10px; /* Makes the link text bold */
   }
   
   .dish-card a {
-    color: #007bff;
-    text-decoration: none;
-    font-weight: bold;
+    color: #007bff; /* Sets the link color to blue */
+    text-decoration: none; /* Removes the underline from the link text */
+    font-weight: bold; /* Makes the link text bold */
   }
   
   .dish-card a:hover {
-    color: #00b38f;
+    color: #00b38f; /* Changes the link color to green when hovered over */
   }
 
   
